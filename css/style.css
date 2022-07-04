@@ -1,0 +1,84 @@
+body{
+    font-family: 'Josefin Sans',
+    margin: 0;
+    background-color: black;
+}
+h1{
+    font-size: 40px;
+    color: rgb(241, 179, 179);
+    font-weight: 800;
+}
+h2{
+    font-weight: 800;
+    font-size: 30px;
+}
+span{
+    color: rgb(209, 168, 248);
+}
+.font{
+    color: rgb(147, 2, 2);
+}
+.flexibal-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 60%;
+}
+.hlf{
+    color: rgb(248, 139, 139);
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(19, 16, 16), rgb(247, 35, 35));
+    padding: 10px 30px;
+    text-decoration-color: aqua;
+    border-radius: 10px;
+    color: white;
+    font-weight: 800;
+}
+.top-banner{
+    background-image: url(../image/images.jpg);
+    background-repeat: no-repeat;
+}
+.color{
+    color: brown;
+}
+.dream-big{
+    background-image: url(../image/images4.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+p{
+    color: rgba(236, 94, 94, 0.977);
+}
+.ra{
+    color: azure;
+    font-size: bold;
+}
+.experience-area{
+    background-image: url(../image/images5.png);
+    background-repeat: no-repeat;
+    float: left;
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-left: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px rgb(126, 3, 3);
+    border-radius: 10px;
+}
+#baby{
+    border-left:7px solid rgb(228, 77, 39);
+}
+#pro{
+    border-left: 7px solid rgb(4, 4, 67);
+}
+footer{
+    text-align: center;
+}
